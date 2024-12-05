@@ -12,7 +12,7 @@ Key Entities and Responsibilities
 1. Student
 Attributes:
 studentID: Unique identifier for each student.
-name, email, phone: Contact details of the student.
+name, email, phone, age: Contact details of the student.
 Functions:
 registerCourse(): Register for a course.
 viewCourse(): View enrolled courses.
@@ -57,3 +57,6 @@ Course Management: Create and modify course details.
 Teacher Management: Assign courses to teachers.
 Enrollment Tracking: Track which students are enrolled in which courses.
 Grade Assignment: Record and manage grades for students.
+
+## Contributors
+M.D.J.Kavishan Nipun Shantha - 22ug1-0704
