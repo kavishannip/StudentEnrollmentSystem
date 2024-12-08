@@ -60,4 +60,5 @@ Grade Assignment: Record and manage grades for students.
 
 ## Contributors
 M.D.J.Kavishan Nipun Shantha - 22ug1-0704
-- Member 1 (Simulated)
+T.H.M.Dhananjalee            -  22ug2-0047
+- Member 2 (Simulated)
